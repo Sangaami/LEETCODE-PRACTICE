@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0012-integer-to-roman) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0048-rotate-image) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0067-add-binary) |
 ## Simulation
