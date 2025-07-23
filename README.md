@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0067-add-binary) |
 | [1954-replace-all-digits-with-characters](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1954-replace-all-digits-with-characters) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2819-remove-trailing-zeros-from-a-string) |
 ## Simulation
 |  |
 | ------- |
