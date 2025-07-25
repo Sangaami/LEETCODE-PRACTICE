@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0513-find-bottom-left-tree-value) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0513-find-bottom-left-tree-value) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -135,4 +137,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
