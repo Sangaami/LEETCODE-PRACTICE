@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0112-path-sum) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0112-path-sum) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0112-path-sum) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0112-path-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0513-find-bottom-left-tree-value) |
