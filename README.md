@@ -140,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Database
+|  |
+| ------- |
+| [2110-employees-with-missing-information](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2110-employees-with-missing-information) |
 <!---LeetCode Topics End-->
