@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0070-climbing-stairs) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
