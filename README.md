@@ -150,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0183-customers-who-never-order) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [2110-employees-with-missing-information](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2110-employees-with-missing-information) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
