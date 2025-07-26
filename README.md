@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0048-rotate-image) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0307-range-sum-query-mutable) |
 | [0575-distribute-candies](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0575-distribute-candies) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0112-path-sum) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0112-path-sum) |
@@ -158,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
