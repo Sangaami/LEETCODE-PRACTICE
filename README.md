@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0513-find-bottom-left-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0513-find-bottom-left-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Tree
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0513-find-bottom-left-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Design
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0513-find-bottom-left-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Stack
 |  |
 | ------- |
@@ -172,4 +176,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
