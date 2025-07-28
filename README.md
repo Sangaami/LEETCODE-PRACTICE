@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0067-add-binary) |
 | [1899-count-items-matching-a-rule](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1899-count-items-matching-a-rule) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
