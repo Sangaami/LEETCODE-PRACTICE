@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1293-three-consecutive-odds) |
 | [1813-maximum-erasure-value](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1813-maximum-erasure-value) |
 | [1899-count-items-matching-a-rule](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1899-count-items-matching-a-rule) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0067-add-binary) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Two Pointers
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
