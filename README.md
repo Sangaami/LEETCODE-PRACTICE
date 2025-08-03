@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Design
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Two Pointers
 |  |
 | ------- |
@@ -211,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0022-generate-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1427-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
