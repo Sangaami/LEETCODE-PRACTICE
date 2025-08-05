@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0307-range-sum-query-mutable) |
 | [0575-distribute-candies](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0575-distribute-candies) |
 | [0792-binary-search](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0792-binary-search) |
+| [1039-find-the-town-judge](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1039-find-the-town-judge) |
 | [1293-three-consecutive-odds](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1293-three-consecutive-odds) |
 | [1813-maximum-erasure-value](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1813-maximum-erasure-value) |
 | [1899-count-items-matching-a-rule](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1899-count-items-matching-a-rule) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0012-integer-to-roman) |
 | [0575-distribute-candies](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0575-distribute-candies) |
+| [1039-find-the-town-judge](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1039-find-the-town-judge) |
 | [1813-maximum-erasure-value](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1813-maximum-erasure-value) |
 ## Math
 |  |
@@ -235,5 +237,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1039-find-the-town-judge](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
