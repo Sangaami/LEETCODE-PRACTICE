@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2121-find-if-path-exists-in-graph) |
 ## Stack
 |  |
 | ------- |
@@ -239,4 +241,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1916-find-center-of-star-graph) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2121-find-if-path-exists-in-graph) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
