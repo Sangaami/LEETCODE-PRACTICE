@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0067-add-binary) |
+| [0516-longest-palindromic-subsequence](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0516-longest-palindromic-subsequence) |
 | [1899-count-items-matching-a-rule](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1899-count-items-matching-a-rule) |
 | [1954-replace-all-digits-with-characters](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1954-replace-all-digits-with-characters) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2819-remove-trailing-zeros-from-a-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0322-coin-change) |
+| [0516-longest-palindromic-subsequence](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1013-fibonacci-number) |
 ## Memoization
