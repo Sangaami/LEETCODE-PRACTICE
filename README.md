@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0173-binary-search-tree-iterator) |
+| [0232-implement-queue-using-stacks](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0307-range-sum-query-mutable) |
 ## Prefix Sum
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0173-binary-search-tree-iterator) |
+| [0232-implement-queue-using-stacks](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0232-implement-queue-using-stacks) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Database
@@ -260,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0045-jump-game-ii) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
