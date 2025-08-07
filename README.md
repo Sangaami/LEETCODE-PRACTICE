@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0307-range-sum-query-mutable) |
+| [0322-coin-change](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0575-distribute-candies) |
 | [0792-binary-search](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0792-binary-search) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0799-minimum-distance-between-bst-nodes) |
