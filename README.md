@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0048-rotate-image) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0198-house-robber](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0322-coin-change) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1013-fibonacci-number) |
