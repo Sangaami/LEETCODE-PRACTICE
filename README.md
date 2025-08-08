@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Database
@@ -225,11 +226,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Backtracking
 |  |
