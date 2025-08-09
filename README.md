@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0563-binary-tree-tilt) |
+| [0744-network-delay-time](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0744-network-delay-time) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0744-network-delay-time](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0744-network-delay-time) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2121-find-if-path-exists-in-graph) |
 ## Stack
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0744-network-delay-time) |
 | [1039-find-the-town-judge](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2121-find-if-path-exists-in-graph) |
@@ -293,4 +296,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
