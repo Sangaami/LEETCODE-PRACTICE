@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0012-integer-to-roman) |
 | [0575-distribute-candies](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0575-distribute-candies) |
+| [0900-reordered-power-of-2](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0900-reordered-power-of-2) |
 | [1039-find-the-town-judge](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1039-find-the-town-judge) |
 | [1813-maximum-erasure-value](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1813-maximum-erasure-value) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0070-climbing-stairs) |
+| [0900-reordered-power-of-2](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 ## Bit Manipulation
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Iterator
@@ -312,4 +315,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0744-network-delay-time) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0900-reordered-power-of-2) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
