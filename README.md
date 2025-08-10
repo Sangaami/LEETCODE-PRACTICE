@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0575-distribute-candies) |
 | [0792-binary-search](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0792-binary-search) |
+| [1018-largest-perimeter-triangle](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 | [1039-find-the-town-judge](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1039-find-the-town-judge) |
 | [1293-three-consecutive-odds](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1293-three-consecutive-odds) |
 | [1813-maximum-erasure-value](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1813-maximum-erasure-value) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Iterator
 |  |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0045-jump-game-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 ## Queue
 |  |
 | ------- |
