@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0575-distribute-candies) |
+| [0749-shortest-completing-word](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0749-shortest-completing-word) |
 | [0792-binary-search](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0792-binary-search) |
 | [1018-largest-perimeter-triangle](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 | [1039-find-the-town-judge](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1039-find-the-town-judge) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0012-integer-to-roman) |
 | [0496-next-greater-element-i](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0575-distribute-candies) |
+| [0749-shortest-completing-word](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0749-shortest-completing-word) |
 | [0900-reordered-power-of-2](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0900-reordered-power-of-2) |
 | [1039-find-the-town-judge](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1039-find-the-town-judge) |
 | [1813-maximum-erasure-value](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1813-maximum-erasure-value) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0749-shortest-completing-word](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0749-shortest-completing-word) |
 | [1250-longest-common-subsequence](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1250-longest-common-subsequence) |
 | [1899-count-items-matching-a-rule](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1899-count-items-matching-a-rule) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1933-number-of-different-integers-in-a-string) |
