@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0070-climbing-stairs) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0900-reordered-power-of-2](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0067-add-binary) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## String
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0072-edit-distance) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0749-shortest-completing-word](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0749-shortest-completing-word) |
