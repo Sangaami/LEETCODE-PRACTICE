@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0575-distribute-candies) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0749-shortest-completing-word](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0749-shortest-completing-word) |
 | [0792-binary-search](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0792-binary-search) |
 | [1018-largest-perimeter-triangle](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
