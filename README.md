@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0749-shortest-completing-word](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0749-shortest-completing-word) |
 | [0792-binary-search](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 | [1039-find-the-town-judge](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1039-find-the-town-judge) |
 | [1293-three-consecutive-odds](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1293-three-consecutive-odds) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0045-jump-game-ii) |
+| [0890-lemonade-change](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 ## Queue
 |  |
