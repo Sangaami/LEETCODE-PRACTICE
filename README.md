@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0168-excel-sheet-column-title) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0412-fizz-buzz) |
 | [0900-reordered-power-of-2](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0168-excel-sheet-column-title) |
 | [0383-ransom-note](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0383-ransom-note) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0749-shortest-completing-word](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0749-shortest-completing-word) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0412-fizz-buzz) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
