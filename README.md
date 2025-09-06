@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0303-range-sum-query-immutable) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Binary Indexed Tree
 |  |
 | ------- |
