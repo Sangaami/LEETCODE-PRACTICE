@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0168-excel-sheet-column-title) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0412-fizz-buzz) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0089-gray-code) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## String
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0022-generate-parentheses) |
+| [0089-gray-code](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0131-palindrome-partitioning) |
 ## Sorting
 |  |
