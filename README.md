@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0749-shortest-completing-word) |
 | [0900-reordered-power-of-2](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0900-reordered-power-of-2) |
 | [1039-find-the-town-judge](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1039-find-the-town-judge) |
+| [1297-maximum-number-of-balloons](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1297-maximum-number-of-balloons) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1813-maximum-erasure-value](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1813-maximum-erasure-value) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0749-shortest-completing-word](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0749-shortest-completing-word) |
 | [1250-longest-common-subsequence](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1250-longest-common-subsequence) |
+| [1297-maximum-number-of-balloons](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1297-maximum-number-of-balloons) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1899-count-items-matching-a-rule](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1899-count-items-matching-a-rule) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0383-ransom-note) |
 | [0900-reordered-power-of-2](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0900-reordered-power-of-2) |
+| [1297-maximum-number-of-balloons](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1297-maximum-number-of-balloons) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Enumeration
 |  |
