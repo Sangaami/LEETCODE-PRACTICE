@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1813-maximum-erasure-value](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1813-maximum-erasure-value) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1933-number-of-different-integers-in-a-string) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Math
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1899-count-items-matching-a-rule) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1954-replace-all-digits-with-characters](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1954-replace-all-digits-with-characters) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0383-ransom-note) |
 | [0900-reordered-power-of-2](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0900-reordered-power-of-2) |
 | [1297-maximum-number-of-balloons](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1297-maximum-number-of-balloons) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Enumeration
 |  |
