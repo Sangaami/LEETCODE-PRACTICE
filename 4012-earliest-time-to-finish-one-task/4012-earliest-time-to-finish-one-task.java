@@ -2,17 +2,20 @@ class Solution {
     public int earliestTime(int[][] tasks) {
         List<Integer> arr=  new ArrayList<>();
         int sum=0;
+        int min=Integer.MAX_VALUE;
         for(int i =0;i<tasks.length;i++){
             sum=0;
             for(int j=0;j<tasks[0].length;j++){
                 sum+=tasks[i][j];
-               
             }
-             arr.add(sum);
+            if(sum<min){
+                min=sum;
+            }  
+            
+            
         }
-        Collections.sort(arr);
-        sum=arr.get(0);
-        return sum;
+       
+        return min;
 
     }
 }
