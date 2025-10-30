@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/3731-sum-of-variable-length-subarrays) |
+| [4012-earliest-time-to-finish-one-task](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/4012-earliest-time-to-finish-one-task) |
 ## Hash Table
 |  |
 | ------- |
