@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/3731-sum-of-variable-length-subarrays) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/4012-earliest-time-to-finish-one-task) |
 ## Hash Table
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1933-number-of-different-integers-in-a-string](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
 |  |
 | ------- |
