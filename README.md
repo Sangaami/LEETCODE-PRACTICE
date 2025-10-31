@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0322-coin-change) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0575-distribute-candies) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0012-integer-to-roman) |
 | [0383-ransom-note](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0383-ransom-note) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0575-distribute-candies) |
 | [0749-shortest-completing-word](https://github.com/Sangaami/LEETCODE-PRACTICE/tree/master/0749-shortest-completing-word) |
